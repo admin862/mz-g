@@ -53,5 +53,6 @@ web/gimg/goods_rm
 web/gimg/sku
 web/gimg/sku_rm
 web/WEB-INF/classes
+web/WEB-INF/lib
 web/WEB-INF/tmp
 mz-g.iml
