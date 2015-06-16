@@ -41,3 +41,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# ignoree by wukong
+.idea
+log
+test-mz
+src-mz
+web/gimg/goods
+web/gimg/goods_rm
+web/gimg/sku
+web/gimg/sku_rm
+web/WEB-INF/classes
+web/WEB-INF/tmp
+mz-g.iml
